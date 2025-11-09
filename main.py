@@ -29,7 +29,7 @@ while running:
          if option_chosen == 2:
               print("Sorry.. work in progress")  
          if option_chosen == 3:
-              print("Made by Haroon Rubbani")
+              print("Made by Haroon")
               print("Work in progress")
               print("It was built on Vs studio")
               print("It was made in November 2025")  
